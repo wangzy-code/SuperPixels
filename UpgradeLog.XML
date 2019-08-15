@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SLICSuperpixels">
+</Property><Property Name="解决方案文件" Value="C:\Users\jiance04\Desktop\SLICSuperpixels_VC2008_SLICO_15Jun2013\SLICSuperpixels.sln">
+</Property><Property Name="Date" Value="2019年8月13日">
+</Property><Property Name="Time" Value="16:47">
+</Property><Property Name="Solution" Value="SLICSuperpixels">
+</Property><Property Name="解决方案文件" Value="C:\Users\jiance04\Desktop\SLICSuperpixels_VC2008_SLICO_15Jun2013\SLICSuperpixels.sln">
+</Property><Property Name="Date" Value="2019年8月13日">
+</Property><Property Name="Time" Value="16:47">
+</Property></Properties><Event ErrorLevel="0" Project="SLICSuperpixels" Source="SLICSuperpixels\SLICSuperpixels.vcproj" Description="Converting project file 'C:\Users\jiance04\Desktop\SLICSuperpixels_VC2008_SLICO_15Jun2013\SLICSuperpixels\SLICSuperpixels.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SLICSuperpixels" Source="SLICSuperpixels\SLICSuperpixels.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="SLICSuperpixels" Source="SLICSuperpixels\SLICSuperpixels.vcproj" Description="Done converting to new project file 'C:\Users\jiance04\Desktop\SLICSuperpixels_VC2008_SLICO_15Jun2013\SLICSuperpixels\SLICSuperpixels.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SLICSuperpixels" Source="SLICSuperpixels\SLICSuperpixels.vcproj" Description="Converted">
+</Event><Event ErrorLevel="3" Project="SLICSuperpixels" Source="SLICSuperpixels\SLICSuperpixels.vcproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="" Source="SLICSuperpixels.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="SLICSuperpixels.sln" Description="Converted">
+</Event></UpgradeLog>
